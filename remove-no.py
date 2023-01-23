@@ -4,3 +4,5 @@ import re
 random_data = pd.read_fwf('random_para.txt')
 random_data  = re.sub("[$,0-9]", "", str(random_data ))
 print (random_data )
+#random_data.to_fwf('data/new_randon_para.txt')
+#random_data.savetxt(r'data/new_random.txt', str(df.values), fmt='%d')
