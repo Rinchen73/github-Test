@@ -3,7 +3,7 @@ from yaml.loader import SafeLoader
 import yaml
 
 # Open the file and load the file
-with open('data/yaml_file.yaml') as f:
+with open('yaml_file.yaml') as f:
     members = yaml.load(f, Loader=SafeLoader)
 
 #deletiing first item from the yaml file

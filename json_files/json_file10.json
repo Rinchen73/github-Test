@@ -1,0 +1,7 @@
+
+{"john": "{ \"name\":\"John\", \"age\":30, \"city\":\"New York\"}", 
+"Pema": "{ \"name\":\"Pema\", \"age\":69, \"city\":\"delhi\"}",
+"Kalsang": "{ \"name\":\"kalsang\", \"age\":79, \"city\":\"bangalore\"}",
+"Dolma": "{ \"name\":\"Dolma\", \"age\":9, \"city\":\"Goa\"}",
+"Phurbu": "{ \"name\":\"Phurbu\", \"age\":19, \"city\":\"delhi\"}"
+}

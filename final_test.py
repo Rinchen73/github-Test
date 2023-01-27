@@ -29,7 +29,7 @@ def csv_read_write():
     #saving update info into new csv file
     student_list.to_csv('data/new-stu-list.csv')
     return 
-
+    
 def yaml_read_write():
     # Open the file and load the file
     # Open the file and load the file
