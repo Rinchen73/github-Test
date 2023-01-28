@@ -1,5 +1,5 @@
 import pandas as pd
-import csv
+
 
 def main(paths):
     index = 1
